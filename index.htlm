@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Moustapha Coiffeur</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #111;
+      color: white;
+      text-align: center;
+      padding: 2rem;
+    }
+    section {
+      padding: 2rem;
+      text-align: center;
+    }
+    footer {
+      background-color: #111;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
 
+  <header>
+    <h1>Bienvenue chez Moustapha Coiffeur</h1>
+    <p>Votre style, notre passion</p>
+  </header>
+
+  <section>
+    <h2>Nos Services</h2>
+    <p>Coupe, coiffure, barbe, soins capillaires et plus encore.</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Whatsapp, Instagram, Facebook - tout est à votre portée.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Moustapha Coiffeur. Tous droits réservés.</p>
+  </footer>
+
+</body>
+</html>
